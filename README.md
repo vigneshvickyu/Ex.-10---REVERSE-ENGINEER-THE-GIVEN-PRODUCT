@@ -1,4 +1,4 @@
-# Ex. 10 - REVERSE ENGINEER THE GIVEN PRODUCT
+# Ex. 4 - REVERSE ENGINEER THE GIVEN PRODUCT
 
 ### DATE: 
 ## AIM: 
@@ -34,8 +34,8 @@ Step 10.:- After generate the gcode format then follow the these instruction
 ### Output:
 ![image](https://github.com/laakshit-D/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/119559976/d7a6e0ae-9e32-4296-8aa0-65dd2d30f9b3)
 
-### Name: Kavinraja D
-### Register Number: 212222240047
+### Name: Vignesh M
+### Register Number: 212223240176
 
 ## RESULT:
 Thus the given product is reverse engineered and prototyped using 3D Printer.
